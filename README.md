@@ -3,6 +3,11 @@ This project contains 3 microservices (Client Using Angular, Emart api Using Nod
 Each of the microservices contains its own Dockerfile. 
 This also include the Docker-compose file thats help build all the images together.
 
+####
+REPOSITORY
+https://github.com/devopshydclub/emartapp.git
+
+
 #####
 Bash script for the AWS Instance USERDATA 
 #!/bin/bash
